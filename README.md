@@ -41,7 +41,10 @@ Each language section will cover the following key topics:
 ## Roadmap
 
 1. **Python** - Currently in progress. This folder contains detailed resources, implementations, and problem sets in Python.
-2. **Future Languages** - Support for additional languages like Java, C++, and JavaScript will be added to allow for cross-language comparisons and broaden the scope.
+2. **JavaScript** - Planned. Will include data structures and algorithms in JavaScript.
+3. **TypeScript** - Planned. Aims to provide TypeScript versions of all data structures and algorithms.
+4. **Go** - Planned. Go implementations will be added for high-performance applications.
+5. **C++** - Planned. C++ implementations will be added to explore efficiency in a low-level language.
 
 ## Contributing
 
