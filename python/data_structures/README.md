@@ -44,11 +44,23 @@ To run the examples, execute:
 
 
 ## 3. Stack
+
 A **stack** is a linear data structure that follows the Last-In-First-Out (LIFO) principle. The most recent element added to the stack is the first one to be removed.
 
-- **File**: [`stack.py`](stack.py)
-- **Operations**: Push, pop, and peek elements.
-- **Example Usage**: (Will add once `stack.py` is implemented.)
+#### Stack Operations
+
+The `stack.py` file demonstrates the following operations:
+
+1. **Push** - Add an element to the top of the stack.
+2. **Pop** - Remove and return the top element of the stack.
+3. **Peek** - View the top element without removing it.
+4. **Is Empty** - Check if the stack is empty.
+5. **Display** - Print all elements in the stack from top to bottom.
+
+To run the examples, execute:
+```
+python3 stack.py
+```
 
 ## 4. Queue
 A **queue** is a linear data structure that follows the First-In-First-Out (FIFO) principle. The first element added to the queue is the first one to be removed.
