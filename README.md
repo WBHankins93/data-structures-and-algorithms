@@ -53,3 +53,15 @@ Contributions are welcome! If you’d like to contribute, please open issues, di
 ## License
 
 This repository is licensed under the MIT License, making it open-source and available for educational and practical use.
+
+
+
+---
+
+### Tips as You Continue
+
+- **Add Each Data Structure Gradually**: As you implement each data structure, add its respective `.py` file, and update the main `README.md` in `data_structures`.
+- **Document Operations**: For each data structure, document the key operations supported (like push, pop for Stack) and add them to the corresponding `.py` file.
+- **Provide Example Usage**: For each data structure, include example usage in the `README.md` to show how the code can be run interactively.
+
+Let me know if you’d like to move forward with a specific data structure next!
