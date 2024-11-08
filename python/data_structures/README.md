@@ -22,17 +22,25 @@ The `array.py` file demonstrates the following operations:
 Each function in `array.py` is self-contained and can be called independently to perform the respective operation.
 
 To run the examples, execute:
-
-```bash
 python array.py
 
 
 ### 2. Linked List
-A **linked list** is a linear data structure in which elements, called nodes, are linked together using pointers. Each node contains data and a reference (or link) to the next node in the sequence.
 
-- **File**: [`linked_list.py`](linked_list.py)
-- **Operations**: Insert, delete, and traverse elements.
-- **Example Usage**: (Will add once `linked_list.py` is implemented.)
+A **linked list** is a linear data structure where elements, called nodes, are linked together using pointers. Each node contains data and a reference (or link) to the next node in the sequence.
+
+#### Linked List Operations
+
+The `linked_list.py` file demonstrates the following operations:
+
+1. **Insert at Beginning** - Adds a new node at the start of the list.
+2. **Insert at End** - Adds a new node at the end of the list.
+3. **Delete by Value** - Removes the first node with a specified value.
+4. **Search** - Checks if a specific value is present in the list.
+5. **Display** - Prints all elements in the list.
+
+To run the examples, execute:
+python3 linked_list.py
 
 ### 3. Stack
 A **stack** is a linear data structure that follows the Last-In-First-Out (LIFO) principle. The most recent element added to the stack is the first one to be removed.
@@ -95,6 +103,4 @@ A **trie** (prefix tree) is a specialized tree used for storing strings. It’s 
 ## Usage
 
 To run any of the data structure examples, navigate to the relevant Python file and run:
-
-```bash
 python3 <file_name>.py
